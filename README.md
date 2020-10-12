@@ -1053,22 +1053,6 @@ const vm = new Vue({
 });
 ```
 
-## Demo
-
-SpaceXBot Web UI is deployed on S3 bucket. Take a look at below mentioned URL
-
-http://spacexbot.s3-website-eu-west-1.amazonaws.com
-
-![alt text](https://spacexbot.s3-eu-west-1.amazonaws.com/images/Image1.jpg)
-![alt text](https://spacexbot.s3-eu-west-1.amazonaws.com/images/Image2.jpg)
-![alt text](https://spacexbot.s3-eu-west-1.amazonaws.com/images/Image3.jpg)
-![alt text](https://spacexbot.s3-eu-west-1.amazonaws.com/images/Image4.jpg)
-![alt text](https://spacexbot.s3-eu-west-1.amazonaws.com/images/Image5.jpg)
-
-SpaceXBot is also integrated with Facebook Messenger. Take a look at demo video
-
-https://myoffice.accenture.com/:v:/g/personal/shubham_t_gupta_accenture_com/EeidHdiLc5hCnE7960HOcOEB4Cw4GwUwkgKmBhZvqb60XQ?e=9UYTS6
-
 ## Author
 
 Shubham Gupta
